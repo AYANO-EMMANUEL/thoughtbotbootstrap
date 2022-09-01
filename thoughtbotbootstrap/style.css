@@ -1,0 +1,100 @@
+.top-nav-links:hover {
+    color: #e03131 !important;
+}
+
+.top-nav-links:checked {
+    color: black !important;
+}
+
+.moma {
+    /* padding: 30px 60px !important; */
+    padding-left: 15% !important;
+    padding-right: 15% !important;
+    margin-bottom: 2.2% !important;
+}
+
+.houseparty {
+    padding-left: 9.3% !important;
+    padding-right: 9.3% !important;
+    margin-bottom: 2.2% !important;
+}
+
+.merck {
+    padding-left: 15.2% !important;
+    padding-right: 15.2% !important;
+    margin-bottom: 2.2% !important;
+}
+
+.mit {
+    padding-left: 20.3% !important;
+    padding-right: 20.3% !important;
+    margin-bottom: 2.2% !important;
+}
+
+.disney {
+    padding-left: 17.8% !important;
+    padding-right: 17.8% !important;
+    margin-bottom: 2.2% !important;
+}
+
+.pparent {
+    padding-left: 17.9% !important;
+    padding-right: 17.9% !important;
+    margin-bottom: 2.2% !important;
+}
+
+.blogs {
+    width: 90% !important;
+    margin: 4% auto !important;
+    margin-right: auto !important;
+}
+
+.logo-ralph-and-wordmark {
+    height: 55.2px;
+    /* height: 3.9rem; */
+    width: 225.5px;
+    /* width: 12.5rem; */
+}
+
+.footer__logo {
+    margin-bottom: 3rem;
+    width: 250px;
+}
+
+.ffooter {
+    color: #ffffff;
+    font-size: 47px;
+    font-weight: 600;
+    letter-spacing: -1px;
+    line-height: 1.0125;
+    max-width: 28em;
+}
+
+.ffdiv {
+    padding: 4.5%;
+    background-color: #dc1919 !important;
+}
+
+.fbutton {
+    cursor: pointer;
+    color: #e03131;
+    background-color: #fff;
+    font-size: larger;
+    font-family: "Calibre", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    border: none;
+    padding: 1rem 1.75rem;
+    /* border-radius: 100rem; */
+    padding-left: 35px;
+    padding-right: 35px;
+    /* padding: 18px 31.5px; */
+}
+
+
+/* .fbutton span {
+    font-weight: 00;
+} */
+
+
+/* .container {
+    padding-right: 0% !important;
+} */
